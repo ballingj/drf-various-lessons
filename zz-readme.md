@@ -65,11 +65,11 @@ REST_FRAMEWORK = {
 
 ### API
 > app to demonstrate API that includes the whole data for SPA processing (think react, angular, vue, etc)
-- @api_view
+- `@api_view`
   -- doctor = filter query set
   -- context in VehicleSerializer
-- @view_set
-- @action viewset
+- `@view_set`
+- `@action` viewset
   -- use of :  The mixins are CreateModelMixin, ListModelMixin, RetrieveModelMixin, UpdateModelMixin—which provides both .update() and .partial_update() methods—and DestroyModelMixin.
   -- 
 
