@@ -66,18 +66,19 @@ REST_FRAMEWORK = {
 ### API
 > app to demonstrate API that includes the whole data for SPA processing (think react, angular, vue, etc)
 - `@api_view`
-  -- doctor = filter query set
-  -- context in VehicleSerializer
+- doctor = filter query set
+- context in VehicleSerializer
 - `@view_set`
 - `@action` viewset
-  -- use of :  The mixins are CreateModelMixin, ListModelMixin, RetrieveModelMixin, UpdateModelMixin—which provides both .update() and .partial_update() methods—and DestroyModelMixin.
-  -- 
+- use of :  The mixins are CreateModelMixin, ListModelMixin, RetrieveModelMixin, UpdateModelMixin—which provides both .update() and .partial_update() methods—and DestroyModelMixin.
+ 
 
 ### Prepping for SPA lesson
-- Utilities:
-  -- django-awl
-    -- Miscellaneous collections of utilities like RankedModel an abstract model that provides ordering
-    -- https://github.com/cltrudeau/django-awl
-  -- django-bstrap-modals
-    == Django templates for Bootstrap modal dialogs, include wrapper for Rest actions
-    -- https://github.com/cltrudeau/django-bstrap-modals 
+#### Utilities:
+- django-awl
+-- Miscellaneous collections of utilities like RankedModel an abstract model that provides ordering
+-- https://github.com/cltrudeau/django-awl
+
+- django-bstrap-modals
+-- Django templates for Bootstrap modal dialogs, include wrapper for Rest actions
+-- https://github.com/cltrudeau/django-bstrap-modals 
