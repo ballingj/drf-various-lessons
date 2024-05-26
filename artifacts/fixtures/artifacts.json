@@ -1,0 +1,18 @@
+[
+    {
+        "fields": {
+            "name": "Chachapoyan Fertility Idol",
+            "shiny": true
+        },
+        "model": "artifacts.artifact",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "name": "Staff of Ra Headpiece",
+            "shiny": true
+        },
+        "model": "artifacts.artifact",
+        "pk": 2
+    }
+]

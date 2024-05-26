@@ -1,0 +1,26 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "title": "Bible",
+      "restricted": false
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "title": "Tanis and You",
+      "restricted": true
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "title": "Ophidiophobia",
+      "restricted": false
+    }
+  }
+]

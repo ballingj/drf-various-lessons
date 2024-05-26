@@ -1,0 +1,27 @@
+[
+  {
+    "model": "vehicles.vehicle",
+    "pk": 1,
+    "fields": {
+      "name": "U26 Wurrfler"
+    }
+  },
+  {
+    "model": "vehicles.part",
+    "pk": 1,
+    "fields": {
+      "name": "Diesel-Electric",
+      "make": "DeSchiMAG",
+      "vehicle": 1
+    }
+  },
+  {
+    "model": "vehicles.part",
+    "pk": 2,
+    "fields": {
+      "name": "G7a Torpedo",
+      "make": "Kriegsmarine",
+      "vehicle": 1
+    }
+  }
+]

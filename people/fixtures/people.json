@@ -1,0 +1,38 @@
+[
+  {
+    "model": "people.person",
+    "pk": 1,
+    "fields": {
+      "first": "Henry Walton, Jr",
+      "last": "Jones",
+      "title": "Dr."
+    }
+  },
+  {
+    "model": "people.person",
+    "pk": 2,
+    "fields": {
+      "first": "Marion",
+      "last": "Ravenwood",
+      "title": "Ms."
+    }
+  },
+  {
+    "model": "people.person",
+    "pk": 3,
+    "fields": {
+      "first": "Rene Emile",
+      "last": "Belloq",
+      "title": "Dr."
+    }
+  },
+  {
+    "model": "people.person",
+    "pk": 4,
+    "fields": {
+      "first": "Henry Walton, Sr",
+      "last": "Jones (RIP)",
+      "title": "Dr."
+    }
+  }
+]
